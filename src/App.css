@@ -34,3 +34,14 @@ p {
   color: white;
   cursor: pointer;
 }
+
+.reset{
+  padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 10px;
+    background-color: rgb(123, 123, 123);
+    color: white;
+    cursor: pointer;
+}
